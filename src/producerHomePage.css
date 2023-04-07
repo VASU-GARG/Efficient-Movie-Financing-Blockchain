@@ -1,0 +1,10 @@
+.bucket{
+    display: flex;
+    flex-direction: row;
+    padding: 20px;
+
+}
+
+.producerBody{
+    padding: 30px;
+}
